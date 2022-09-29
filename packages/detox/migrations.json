@@ -165,6 +165,15 @@
           "alwaysAddToPackageJson": false
         }
       }
+    },
+    "14.8.2": {
+      "version": "14.8.2-beta.0",
+      "packages": {
+        "detox": {
+          "version": "19.12.3",
+          "alwaysAddToPackageJson": false
+        }
+      }
     }
   }
 }
